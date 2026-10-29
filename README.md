@@ -6,7 +6,7 @@ Data files associated with the study **Microbial community assembly and function
 
 | File | Contents | Format |
 | --- | --- | --- |
-| `otu_table.xls` | OTU abundance table: 8,042 OTU rows and 72 sample columns. | Tab-delimited text, despite the `.xls` extension. |
+| `otu_table.xls` | OTU abundance table: 8,042 OTU rows and 72 sample columns. | Tab-delimited text. |
 | `otus.fa` | 9,122 OTU representative sequences. | FASTA. |
 | `kegg.profile.L3.xlsx` | KEGG level 3 profile table; worksheet `kegg.profile.L3`, 349 nonempty data rows and 18 sample columns. | Excel workbook. |
 

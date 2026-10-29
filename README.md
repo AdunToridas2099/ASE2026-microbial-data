@@ -18,6 +18,4 @@ All 8,042 OTU identifiers in `otu_table.xls` are present in `otus.fa`. The FASTA
 
 ## File integrity
 
-`SHA256SUMS.txt` records the SHA-256 digest of each data file. The repository preserves the original data bytes, including line endings.
-
-This upload contains the processed tables and OTU representative sequences listed above. Raw sequencing reads and analysis scripts are not included.
+This upload contains the processed tables and OTU representative sequences listed above.

@@ -1,4 +1,4 @@
-# SCI3 microbial data
+# microbial data
 
 Data files associated with the study **Microbial community assembly and functional potential in saline-alkali paddy soils under different fertilization regimes**.
 
